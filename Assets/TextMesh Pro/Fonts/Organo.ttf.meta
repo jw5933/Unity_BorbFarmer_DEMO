@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0a52b188582544650a0da3df872f2e79
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 'Organo (colored version at: logomagazin.com/organo-font)'
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: be7ea3a257cd045e68a2ee9811791854, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
